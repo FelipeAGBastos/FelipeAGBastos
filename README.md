@@ -3,7 +3,7 @@
 **`Estudante de Programação | Sistemas de Informação - FIAP`**
 
 Olá! Meu nome é Felipe Bastos, tenho 19 anos e atualmente curso Sistemas de Informação na [FIAP](https://www.fiap.com.br/) com bolsa integral concedida pelo PROUNI.  
-Antes disso, cursei dois semestres de Análise e Desenvolvimento de Sistemas na [FATEC](https://www.fatec.com.br/), o que fortaleceu ainda mais minha paixão pela área de tecnologia.
+Antes disso, cursei dois semestres de Análise e Desenvolvimento de Sistemas na [FATEC](https://www.fatecsp.br/), o que fortaleceu ainda mais minha paixão pela área de tecnologia.
 
 Tenho formação técnica em Eletrônica pela [ETEC](https://www.cps.sp.gov.br/etec/) e certificação profissionalizante em Inglês. 
 Estou sempre em busca de novos aprendizados e desafios, com foco em desenvolvimento e soluções criativas.
