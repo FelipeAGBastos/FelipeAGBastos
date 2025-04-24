@@ -39,13 +39,13 @@ Estou sempre em busca de novos aprendizados e desafios, com foco em desenvolvime
 </div>
 
 ---
-
 ### 📊 GitHub Stats
 
 <div align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeAGBastos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAGBastos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeAGBastos&show_icons=true&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAGBastos&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </div>
+
 
 ---
 
