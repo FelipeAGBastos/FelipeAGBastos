@@ -36,6 +36,9 @@ Estou sempre em busca de novos aprendizados e desafios, com foco em desenvolvime
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
 
 ---
@@ -43,9 +46,9 @@ Estou sempre em busca de novos aprendizados e desafios, com foco em desenvolvime
 
 <div align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeAGBastos&show_icons=true&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAGBastos&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeAGBastos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+ 
 </div>
-
 
 ---
 
@@ -55,4 +58,8 @@ Estou sempre em busca de novos aprendizados e desafios, com foco em desenvolvime
     <a href="https://www.linkedin.com/in/felipe-bastos-866629257/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Felipe Bastos"/>
   </a>
 <div>
+
+###
+  
+###
 
