@@ -56,6 +56,7 @@ Estou sempre em busca de novos aprendizados e desafios, com foco em desenvolvime
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [💳 Sistema Bancário](https://github.com/FelipeAGBastos/Projetos/tree/main/Sistema%20Bancario) | Aplicação em Java com MySQL para simular operações bancárias (criação de contas, saques, depósitos e transferências). | Java, MySQL, JDBC, SQL |
+| [✨ Analisador de Perfil Bancário](https://github.com/FelipeAGBastos/Projetos/tree/main/Simulador%20Inteligente%20de%20Perfil%20Financeiro%20(Com%20chatbot)) | Aplicação em java que utiliza métricas para analisar seu perfil e recoemndar investimentos (ChatBot integrado). | Java |
 | [🧠 ERP TOTVS (Inspiração)](https://github.com/FelipeAGBastos/Projetos/tree/main/ERP%20Inspirado%20no%20Protheus%20TOTVS) | Protótipo de um ERP inspirado no Protheus, com foco em cadastro de usuários, produtos e relatórios. | Java, MySQL, SQL, JDBC  |
 | [📊 Power BI - Dashboard de Vendas](https://github.com/FelipeAGBastos/Projetos/tree/main/Painel%20Financeiro%20(Power%20BI%20conectado%20ao%20banco%20MySQL)) | Dashboard interativo simulando análise de vendas com KPIs, gráficos e filtros. | Power BI, Excel, DAX |
 | [🎮 Jogo Narrativo em Java](https://github.com/FelipeAGBastos/Java/tree/main/Robo%20JAVA) | Jogo de história interativa em linha de comando, com sistema de escolha e movimentação. | Java |
