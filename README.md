@@ -49,20 +49,25 @@ Estou sempre em busca de novos aprendizados e desafios, com foco em desenvolvime
 
 ---
 
-### 📊 GitHub Stats
-###
+### Tech Stack
 
+<div align="center">
 
-<h3 align="left">🔥   My Stats :</h3>
+<img src="https://skillicons.dev/icons?i=html,git,js,css,docker,bootstrap,py,django,tailwind,java,nextjs&theme=dark" />
 
-###
-
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=FelipeAGBastos&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
----
 
+<br><br>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-api-six.vercel.app/api?username=FelipeAGBastos&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=3642B5&include_all_commits=true&count_private=true&border_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats-api-six.vercel.app/api/top-langs/?username=FelipeAGBastos&bg_color=000000&title_color=ffffff&text_color=ffffff&layout=compact&langs_count=9&border_color=ffffff"/>
+
+</div>
+
+---
 ### ⭐ Projetos
 
 | Projeto | Descrição | Tecnologias |
